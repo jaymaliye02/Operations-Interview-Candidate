@@ -1,0 +1,8 @@
+name: interview-env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - pip
