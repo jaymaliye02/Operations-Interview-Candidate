@@ -1,0 +1,4 @@
+date,ticker,unique_id,quantity,price,contract_multiplier,average_cost,start_of_month_price,avg_cost_sign
+2025-09-11,GOLD CMX,GC_Z5,3,1943.20,100,1935.10,1920.00,1
+2025-09-11,EMINI,ES_Z5,2,5578.25,50,5560.00,5480.00,1
+2025-09-11,LEAN HOGS,HE_Z5,1,76.450,400,77.100,78.250,-1

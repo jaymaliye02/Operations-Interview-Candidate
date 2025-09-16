@@ -1,0 +1,4 @@
+date,ticker,unique_id,quantity,price,contract_multiplier,average_cost,start_of_month_price
+9/11/2025,GCZ5,GC_Z5,3,1943.2,100,1935.1,1920
+9/11/2025,ESZ5,ES_Z5,1,5578.25,50,5560,5480
+9/11/2025,HEZ5,HE_Z5,-1,76.45,400,77.1,78.25

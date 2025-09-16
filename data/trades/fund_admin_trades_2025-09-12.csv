@@ -1,0 +1,5 @@
+trade_id,ticker,unique_id,trade_date,settle_date,price,commissions,quantity,contract_multiplier
+a,GOLD CMX,GC_Z5,9/12/2025,9/15/2025,1949,6.25,1,100
+b,EMINI,ES_Z5,9/12/2025,9/15/2025,5589.5,15,1,50
+c,LEAN HOGS,HE_Z5,9/12/2025,9/15/2025,76.75,8,-1,400
+d,GOLD CMX,GC_Z5,9/12/2025,9/15/2025,1949.6,6.25,1,100

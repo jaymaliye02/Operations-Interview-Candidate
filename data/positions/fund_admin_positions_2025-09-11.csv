@@ -1,0 +1,5 @@
+lot_id,tag,date,security_description,unique_id,lot_qty,price,contract_multiplier,average_cost,start_of_month_price,lot_sign
+a,Hedge,9/11/2025,GOLD CMX,GC_Z5,2,1943.2,100,1935.2,1920,1
+b,Long Equity,9/11/2025,EMINI,ES_Z5,1,5578.25,50,5560,5480,1
+c,Trend,9/11/2025,LEAN HOGS,HE_Z5,1,76.45,400,77.1,78.25,-1
+d,Hedge,9/11/2025,GOLD CMX,GC_Z5,1,1943.2,100,1934.9,1920,1
